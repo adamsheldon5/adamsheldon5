@@ -1,4 +1,4 @@
-## I'm passionate about Testing, Quality, Automation and Innovation through Entrepreneurship. 
+## I'm passionate about Quality, Automation and Innovation through Entrepreneurship. 
 
 - 👋 Hi, I’m Adam Sheldon
 - 👀 I’m interested in Quality and have broad experience as an SDET/Test Engineer working on projects domestic and overseas as a consultant.
