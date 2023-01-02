@@ -1,7 +1,7 @@
-## I'm passionate about Quality, Automation and Innovation through Entrepreneurship. 
+## Building Stuff. 
 
 - 👋 Hi, I’m Adam Sheldon
-- 🌱 I’m currently learning Programming. 
+- 🌱 Building and continuously learning. 
 - 📫 How to reach me adam@heyudigital.com
 
 
