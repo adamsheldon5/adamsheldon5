@@ -1,7 +1,7 @@
 ## Building Stuff. 
 
-- 👋 Hi, I’m Adam Sheldon
-- 🌱 Building and continuously learning. 
+- 👋 Hi, I’m Adam Sheldon a Test Engineer. 
+- 🌱 Building, Testing and continuously learning. 
 - 📫 How to reach me adam@heyudigital.com
 
 
