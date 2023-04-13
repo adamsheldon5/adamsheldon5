@@ -1,4 +1,4 @@
-## Data Analytics/Science/Building Stuff . 
+## Data Analytics/Science/Building Stuff. 
 
 - 👋 Hi, I’m Adam Sheldon.
 - 💻 I have wide-ranging experience from healthcare to e-gaming and finance. 
