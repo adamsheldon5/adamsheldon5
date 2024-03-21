@@ -1,7 +1,7 @@
-## Data | Product/Entrepreneurship | Data Science | Building Stuff. 
+## Product/Entrepreneurship | QA/Testing | Data Science | Building Stuff. 
 
 - 👋 Hi, I’m Adam Sheldon.
-- 💻 Currently working in Data/Product, building a SaaS app. 
+- 💻 Currently working as a QA Lead. 
 - 🌱 A curious, data-driven problem solver, constantly learning.
 - 📫 How to reach me adam@heyudigital.com
 
